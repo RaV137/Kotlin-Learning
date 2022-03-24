@@ -16,7 +16,7 @@ plugins {
 }
 
 group = "me.rav"
-version = "1.0-SNAPSHOT"
+version = "0.0.1"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
 application {
